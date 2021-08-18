@@ -5,5 +5,4 @@
 - 💬 Ask me about Front-end web development or any tech related stuff.
 - 📫 How to reach me: mailing address- hansikasachdeva2002@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I don't know what is github.
 
