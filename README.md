@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **React**
+- 👯 I’m looking to collaborate on ** Full-stack-web-development**
 
-- 💬 Ask me about **React,Java and MySQL**
+- 💬 Ask me about **Object Oriented Programming**
 
 - 📫 How to reach me **hansikasachdeva2024@gmail.com**
 
